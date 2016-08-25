@@ -1,5 +1,5 @@
 # Rails-Heroku-Sendgrid
-Starter app integrating Rails 5 deployed on [Heroku](https://heroku.com/) with [Sendgrid](https://sendgrid.com/) as an addon and [Pony](https://github.com/benprew/pony) as the mailer.
+Starter app integrating Rails 5 deployed on [Heroku](https://heroku.com/) with [Sendgrid](https://sendgrid.com/).
 
 ## How to use
 - Download or clone repo
@@ -11,3 +11,4 @@ Starter app integrating Rails 5 deployed on [Heroku](https://heroku.com/) with [
 ## Resources
 - [Heroku getting started with Rails 5 guide](https://devcenter.heroku.com/articles/getting-started-with-rails5)
 - [Heroku sengrid addon help article](https://devcenter.heroku.com/articles/sendgrid#ruby-rails)
+- [Action Mailer basics](http://guides.rubyonrails.org/action_mailer_basics.html)
